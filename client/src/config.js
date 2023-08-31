@@ -1,3 +1,3 @@
 export const env ={
-     api :"http://localhost:8000"
+     api :"https://personal-diary-yp6c.onrender.com"
 }
