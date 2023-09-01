@@ -9,7 +9,7 @@ const userRouter = require('./src/Routes/userRouter')
 App.use(express.json());
 App.use(express.urlencoded({ extended: true }));
 App.use(cors({
-    origin: 'https://stellar-gelato-5e9b20.netlify.app/'
+    origin: 'https://stellar-gelato-5e9b20.netlify.app'
   }));
 
 //Routes;
